@@ -1,3 +1,13 @@
+-  Paso 1: instalar la  aplicación Laravel 8
+-  Paso 2: configuración de la base de datos
+-  Paso 3: instalación de simplesoftwareio / simple-qrcode
+-  Paso 4: configurar simplesoftwareio / simple-qrcode
+-  Paso 5: crear rutas de generación de código QR
+-  Paso 6: creación del controlador QRCode
+-  Paso 7: ejecutar el servidor de desarrollo
+-  Paso 8: ejecute esta aplicación en el navegador
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
