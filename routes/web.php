@@ -23,3 +23,4 @@ Auth::routes();
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::get('simple-qr-code', [QRCodeController::class, 'simpleQr']);
+Route::get('color-qr-code', [QRCodeController::class, 'colorQr']);
