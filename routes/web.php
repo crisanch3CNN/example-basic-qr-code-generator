@@ -24,3 +24,5 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 Route::get('simple-qr-code', [QRCodeController::class, 'simpleQr']);
 Route::get('color-qr-code', [QRCodeController::class, 'colorQr']);
+Route::get('email-qr-code', [QRCodeController::class, 'emailQrCode']);
+Route::get('simple-view-qr-code', [QRCodeController::class, 'simpleViewQr']);
